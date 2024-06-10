@@ -163,5 +163,9 @@ btnBack.OnClick {
      txtCond.text=strCond
     }
 Screenshots
+
 ![image](https://github.com/MrSmiley777/ST10459254-EXAM/assets/166629805/db3a71c0-88cf-45ad-8414-b6e099213c35)
+Splash Screen with the student number, name of app, app icon, quit button that quits the application on click and the proceed to app button which takes you to the main screen where you add yr details.
+I made the background blue in all of the screens to be like the sky as it relates to it being a weather app. I coloured certain buttons green and red to show caution or to continue throughout the application.
+
 

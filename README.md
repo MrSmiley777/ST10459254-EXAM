@@ -168,4 +168,16 @@ Screenshots
 Splash Screen with the student number, name of app, app icon, quit button that quits the application on click and the proceed to app button which takes you to the main screen where you add yr details.
 I made the background blue in all of the screens to be like the sky as it relates to it being a weather app. I coloured certain buttons green and red to show caution or to continue throughout the application.
 
+![image](https://github.com/MrSmiley777/ST10459254-EXAM/assets/166629805/935781b7-3222-4294-8c2d-e25ee100cd01)
+This is the main screen, all data is entered here which are then added to arrays, you can click on the button to input data directly to the arrays as long as it goes through the error checking, you can click the display average button to find the average of temperatures entered and you can clear your previous entry by clicking on the Clear previous data button. There are two buttons, one for quitting the program and one for going to the next screen to view all data.
+
+![image](https://github.com/MrSmiley777/ST10459254-EXAM/assets/166629805/030276aa-470f-452d-8dd7-91ac79e304cd)
+I could not show the actual pop ups in the app as the PC was too slow and couldnt screenshot it in time. This screenshots shows the error handling, if any of the edit boxes are empty it will not be added to the array and a pop up message will be shown to the user. Then once all fields are filled it will check in the Min and Max fields are numbers as it has to be to find out the average, if it is not only a number then a pop up message will be displayed telling the user that they can only enter numbers.
+
+![image](https://github.com/MrSmiley777/ST10459254-EXAM/assets/166629805/6a260c22-9d6f-40a9-9290-33e487f37ff4)
+This is the detailed view screen which has textviews to display data entered, the user can go back to the main screen if they desire to make changes. The user can click on the display button to see each day, their min and max temp and their weather conditions, all which the user entered.
+
+Design:
+I made the background blue in all of the screens to be like the sky as it relates to it being a weather app. I coloured certain buttons green and red to show caution or to continue throughout the application.
+
 

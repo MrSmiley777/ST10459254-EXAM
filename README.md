@@ -162,4 +162,6 @@ btnBack.OnClick {
      txtMax.text=strMax
      txtCond.text=strCond
     }
+Screenshots
+![image](https://github.com/MrSmiley777/ST10459254-EXAM/assets/166629805/db3a71c0-88cf-45ad-8414-b6e099213c35)
 
